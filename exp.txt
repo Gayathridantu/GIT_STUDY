@@ -1,1 +1,2 @@
 Hi,welcome to pR ,it works only for other braches but not main brach,lets see if it works 
+hi trying to learn pull request
